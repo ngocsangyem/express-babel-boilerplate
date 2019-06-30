@@ -1,0 +1,9 @@
+{
+	"presets": [
+		"@babel/preset-env"
+	],
+	"plugins": [
+		"babel-plugin-inline-import",
+		"@babel/plugin-transform-runtime"
+	]
+}
