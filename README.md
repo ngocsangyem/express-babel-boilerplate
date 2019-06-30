@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> create api with nodejs
+> create api with nodejs using babel
 
 ### 🏠 [Homepage](https://github.com/ngocsangyem/APINode#readme)
 
