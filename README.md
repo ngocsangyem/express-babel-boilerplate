@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to apinode 👋</h1>
+<h1 align="center">Welcome to express-babel-boilerplate 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/ngocsangyem/APINode#readme">
@@ -35,7 +35,7 @@ npm run dev
 
 👤 **ngocsangyem**
 
--   Twitter: [@ngovsangyem](https://twitter.com/ngovsangyem)
+-   Twitter: [@ngocsangyem](https://twitter.com/ngocsangyem)
 -   Github: [@ngocsangyem](https://github.com/ngocsangyem)
 
 ## 🤝 Contributing
