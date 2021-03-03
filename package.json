@@ -37,6 +37,6 @@
 		"babel-plugin-inline-import": "^3.0.0",
 		"babel-plugin-transform-async-to-module-method": "^6.24.1",
 		"nodemon": "^2.0.4",
-		"pug": "^3.0.0"
+		"pug": "^3.0.1"
 	}
 }
